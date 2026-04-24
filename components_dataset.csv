@@ -1,0 +1,6 @@
+Component,Description
+Resistor,A resistor limits the flow of electric current in a circuit.
+Capacitor,A capacitor stores electrical energy in an electric field.
+Diode,A diode allows current to flow in one direction only.
+Transistor,A transistor is used for switching and amplification.
+Inductor,An inductor stores energy in a magnetic field.
